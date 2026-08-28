@@ -1,0 +1,17 @@
+{
+  "file": "hero-v2.png",
+  "purpose": "landing-page hero",
+  "prompt": "",
+  "references": [],
+  "selected_from": ["hero-v1.png", "hero-v2.png", "hero-v3.png"],
+  "rights": "original",
+  "review": {
+    "brief_fit": 0,
+    "composition": 0,
+    "consistency": 0,
+    "technical": 0,
+    "text_accuracy": 0,
+    "expandability": 0,
+    "provenance": 0
+  }
+}
